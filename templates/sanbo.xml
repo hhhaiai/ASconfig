@@ -1,0 +1,24 @@
+<templateSet group="sanbo">
+  <template name="/class" value="/**&#10; * @Copyright © $year$ sanbo Inc. All rights reserved.&#10; * @Description: TODO&#10; * @Version: 1.0&#10; * @Create: $date$ $time$&#10; * @author: $user$&#10; */" shortcut="ENTER" description="类注释" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="year" expression="date(&quot;YYYY&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date(&quot;YYYY/MM/DD&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="date(&quot;HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="/inc" value="    /********************* get instance begin **************************/&#10;    public static $CLASSNAME$ getInstance(Context context) {&#10;        return HLODER.INSTANCE.initContext(context);&#10;    }&#10;&#10;    private $CLASSNAME$ initContext(Context context) {&#10;        if (mContext == null &amp;&amp; context != null) {&#10;            mContext = context.getApplicationContext();&#10;        }&#10;        return HLODER.INSTANCE;&#10;    }&#10;&#10;    private static class HLODER {&#10;        private static final $CLASSNAME$ INSTANCE = new $CLASSNAME$();&#10;    }&#10;    &#10;    private $CLASSNAME$() {}&#10;    &#10;    private Context mContext = null;&#10;    /********************* get instance end **************************/" shortcut="ENTER" description="带Context的单例" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="/ins" value="    /********************* get instance begin **************************/&#10;    public static $CLASSNAME$ getInstance() { &#10;        return HLODER.INSTANCE;&#10;    }&#10;    &#10;    private static class HLODER {&#10;        private static final $CLASSNAME$ INSTANCE = new $CLASSNAME$();&#10;    }&#10;    &#10;    private $CLASSNAME$() {}&#10;    /********************* get instance end **************************/" shortcut="ENTER" description="单例" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
