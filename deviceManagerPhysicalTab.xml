@@ -8,10 +8,31 @@
             <value value="A032DAAEFE6B60" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-10T05:39:02.755948Z" />
         <name value="Google Pixel 4 XL" />
         <target value="Android 11.0" />
         <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8GP4C18719005261" />
+          </Key>
+        </key>
+        <name value="HUAWEI ANE-AL00" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="C1NGA1E7A2323531" />
+          </Key>
+        </key>
+        <name value="HMD Global TA-1041" />
+        <target value="Android 8.1" />
+        <api value="27" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
