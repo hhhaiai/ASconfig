@@ -3,12 +3,11 @@
     <extensionMap>
       <mapping pattern="xposed_init" type="AUTO_DETECTED" />
       <mapping pattern="README" type="AUTO_DETECTED" />
-      <mapping ext="rs" type="Android RenderScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <removed_mapping ext="rs" type="Rust" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Rust" />
     </extensionMap>
   </component>
 </application>
