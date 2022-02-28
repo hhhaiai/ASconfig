@@ -6,7 +6,7 @@
     <option name="LINE_SPACING" value="1.3" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="TodoConfiguration">
