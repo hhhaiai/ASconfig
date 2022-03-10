@@ -5,10 +5,11 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="9cad75f5" />
+            <value value="A032DAAEFE6B60" />
           </Key>
         </key>
-        <name value="OnePlus LE2110" />
+        <lastOnlineTime value="2022-03-10T05:54:49.345229Z" />
+        <name value="Google Pixel 4 XL" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
@@ -16,11 +17,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="A032DAAEFE6B60" />
+            <value value="9cad75f5" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-08T04:35:43.246248Z" />
-        <name value="Google Pixel 4 XL" />
+        <name value="OnePlus LE2110" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
