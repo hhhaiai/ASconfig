@@ -5,12 +5,24 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="8GP4C18719005261" />
+            <value value="A032DAAEFE6B60" />
           </Key>
         </key>
-        <name value="HUAWEI ANE-AL00" />
-        <target value="Android 9.0" />
-        <api value="28" />
+        <lastOnlineTime value="2022-03-17T06:10:55.591807Z" />
+        <name value="Google Pixel 4 XL" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="9cad75f5" />
+          </Key>
+        </key>
+        <name value="OnePlus LE2110" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
