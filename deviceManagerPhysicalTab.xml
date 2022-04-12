@@ -5,10 +5,21 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="VYE0222310002536" />
+          </Key>
+        </key>
+        <name value="HUAWEI ABR-AL60" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="A032DAAEFE6B60" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-01T08:21:18.881731Z" />
+        <lastOnlineTime value="2022-04-12T07:45:56.822121Z" />
         <name value="Google Pixel 4 XL" />
         <target value="Android 11.0" />
         <api value="30" />
