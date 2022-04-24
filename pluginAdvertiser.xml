@@ -27,6 +27,11 @@
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="CargoCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Cargo" pluginName="Rust" pluginId="org.rust.lang" />
+                    </value>
+                  </entry>
                   <entry key="ComposePreviewRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Compose Preview" pluginName="Design Tools" pluginId="com.android.tools.design" bundled="true" />
@@ -35,6 +40,46 @@
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="DartCommandLineRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Command Line App" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="DartRemoteDebugConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Remote Debug" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="DartTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Test" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="DartWebdevConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Dart Web" pluginName="Dart" pluginId="Dart" />
+                    </value>
+                  </entry>
+                  <entry key="FlutterBazelRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Flutter (Bazel)" pluginName="Flutter" pluginId="io.flutter" />
+                    </value>
+                  </entry>
+                  <entry key="FlutterBazelTestConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Flutter Test (Bazel)" pluginName="Flutter" pluginId="io.flutter" />
+                    </value>
+                  </entry>
+                  <entry key="FlutterRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Flutter" pluginName="Flutter" pluginId="io.flutter" />
+                    </value>
+                  </entry>
+                  <entry key="FlutterTestConfigType">
+                    <value>
+                      <FeaturePluginData displayName="Flutter Test" pluginName="Flutter" pluginId="io.flutter" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -72,6 +117,11 @@
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
+                  <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Makefile Target" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" />
+                    </value>
+                  </entry>
                   <entry key="Remote">
                     <value>
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
@@ -85,6 +135,11 @@
                   <entry key="TestNG">
                     <value>
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="WasmPackCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="wasm-pack" pluginName="Rust" pluginId="org.rust.lang" />
                     </value>
                   </entry>
                 </map>
