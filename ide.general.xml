@@ -9,5 +9,7 @@
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="ide.instant.shutdown" value="false" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
+    <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
 </application>
