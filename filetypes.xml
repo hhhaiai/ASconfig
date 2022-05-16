@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="lock" type="AUTO_DETECTED" />
-      <mapping pattern="ROM_USED_INFO00" type="AUTO_DETECTED" />
-      <mapping pattern="xposed_init" type="AUTO_DETECTED" />
       <mapping pattern="README" type="AUTO_DETECTED" />
+      <mapping pattern="lock" type="AUTO_DETECTED" />
+      <mapping pattern="xposed_init" type="AUTO_DETECTED" />
+      <mapping pattern="ROM_USED_INFO00" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="xcf" type="PLAIN_TEXT" />
