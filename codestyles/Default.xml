@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <JSON>
+    <option name="SPACE_BEFORE_COLON" value="true" />
+  </JSON>
   <JavaCodeStyleSettings>
     <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
   </JavaCodeStyleSettings>
