@@ -9,8 +9,4 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
 </application>
