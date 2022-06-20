@@ -1,0 +1,62 @@
+<application>
+  <component name="HMSToolKitPlugin">
+    <option name="chinese" value="true" />
+    <option name="kitsSelectModule" value="{&quot;98644c0b&quot;:&quot;appdemo&quot;}" />
+    <option name="localAgreementList">
+      <list>
+        <LocalAgreement>
+          <option name="agree" value="true" />
+          <option name="area" value="DR1" />
+          <option name="name" value="latest" />
+          <option name="signAgreementTime" value="1638346774145" />
+          <option name="version" value="20210630" />
+        </LocalAgreement>
+      </list>
+    </option>
+    <option name="usedKitsMap">
+      <map>
+        <entry key="31278138">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="5ac73f73">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="908fa7e0">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="98644c0b">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="9cb30c23">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="bfdf237f">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="c5f9d659">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="dc9e45e4">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="userId" value="b32603c1-6383-458e-9e51-e88bce98b22f" />
+  </component>
+</application>
