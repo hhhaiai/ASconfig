@@ -5,6 +5,28 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="298d1844" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="VYE0222310002536" />
+          </Key>
+        </key>
+        <name value="HUAWEI ABR-AL60" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="71833e14" />
           </Key>
         </key>
@@ -27,10 +49,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="VYE0222310002536" />
+            <value value="A032DAAEFE6B60" />
           </Key>
         </key>
-        <name value="HUAWEI ABR-AL60" />
+        <name value="Google Pixel 4 XL" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
@@ -38,12 +60,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="A032DAAEFE6B60" />
+            <value value="1121e309" />
           </Key>
         </key>
-        <name value="Google Pixel 4 XL" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <name value="Xiaomi MI NOTE LTE" />
+        <target value="Android 4.4" />
+        <api value="19" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
