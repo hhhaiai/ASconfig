@@ -67,6 +67,17 @@
         <target value="Android 4.4" />
         <api value="19" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="3554a665" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 9" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
