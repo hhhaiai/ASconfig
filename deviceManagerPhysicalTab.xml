@@ -5,17 +5,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="A032DAAEFE6B60" />
-          </Key>
-        </key>
-        <name value="Google Pixel 4 XL" />
-        <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="298d1844" />
           </Key>
         </key>
@@ -55,6 +44,28 @@
         <name value="OPPO OPPO A59s" />
         <target value="Android 5.1" />
         <api value="22" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="A032DAAEFE6B60" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4 XL" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="1121e309" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI NOTE LTE" />
+        <target value="Android 4.4" />
+        <api value="19" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
