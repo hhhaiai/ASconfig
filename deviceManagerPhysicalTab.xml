@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="VYE0222310002536" />
+          </Key>
+        </key>
+        <name value="HUAWEI ABR-AL60" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="9cad75f5" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="Device" />
         <target value="Android 1.0" />
         <api value="1" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="VYE0222310002536" />
-          </Key>
-        </key>
-        <name value="HUAWEI ABR-AL60" />
-        <target value="Android 11.0" />
-        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
