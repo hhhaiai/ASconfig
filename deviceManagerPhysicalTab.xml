@@ -5,23 +5,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="9cad75f5" />
+            <value value="A032DAAEFE6B60" />
           </Key>
         </key>
-        <name value="OnePlus LE2110" />
+        <name value="Google Pixel 4 XL" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="298d1844" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -49,6 +38,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="298d1844" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="AEQOCMS4V4KZ79KN" />
           </Key>
         </key>
@@ -60,10 +60,21 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="A032DAAEFE6B60" />
+            <value value="1121e309" />
           </Key>
         </key>
-        <name value="Google Pixel 4 XL" />
+        <name value="Xiaomi MI NOTE LTE" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="3554a665" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 9" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
@@ -71,12 +82,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="1121e309" />
+            <value value="9cad75f5" />
           </Key>
         </key>
-        <name value="Xiaomi MI NOTE LTE" />
-        <target value="Android 4.4" />
-        <api value="19" />
+        <name value="OnePlus LE2110" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
