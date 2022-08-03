@@ -87,22 +87,6 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="org.jetbrains.kotlin">
-          <value>
-            <PluginData />
-          </value>
-        </entry>
-        <entry key="org.rust.lang">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
