@@ -1,5 +1,5 @@
 <application>
   <component name="Pandoc.Application.Settings">
-    <option name="myPathToImages" value="D:/code/XpodedParserVpn/import-resources" />
+    <option name="myPathToImages" value="$USER_HOME$/code/MiHeTao/import-resources" />
   </component>
 </application>

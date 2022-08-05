@@ -1,7 +1,7 @@
 <templateSet group="sanbo">
   <template name="/class" value="/**&#10; * @Copyright © $year$ sanbo Inc. All rights reserved.&#10; * @Description: TODO&#10; * @Version: 1.0&#10; * @Create: $date$ $time$&#10; * @author: $user$&#10; */" shortcut="ENTER" description="类注释" toReformat="false" toShortenFQNames="true" useStaticImport="true">
-    <variable name="year" expression="date(&quot;YYYY&quot;)" defaultValue="" alwaysStopAt="true" />
-    <variable name="date" expression="date(&quot;YYYY/MM/DD&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="year" expression="date(&quot;yyyy&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="date(&quot;HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
     <context>
