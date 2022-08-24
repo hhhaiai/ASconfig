@@ -10,8 +10,8 @@
       <mapping ext="mac" type="Assembly file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="FILE_ID.DIZ" type="PLAIN_TEXT" />
       <mapping pattern="startup-sequence" type="PLAIN_TEXT" />
+      <mapping pattern="FILE_ID.DIZ" type="PLAIN_TEXT" />
       <mapping ext="nfo" type="PLAIN_TEXT" />
       <mapping ext="xcf" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
