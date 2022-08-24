@@ -16,23 +16,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="VYE0222310002536" />
-          </Key>
-        </key>
-        <name value="HUAWEI ABR-AL60" />
-        <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="71833e14" />
           </Key>
         </key>
         <name value="OnePlus ONEPLUS A6000" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="VYE0222310002536" />
+          </Key>
+        </key>
+        <name value="HUAWEI ABR-AL60" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -86,6 +86,17 @@
           </Key>
         </key>
         <name value="OnePlus LE2110" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.4.205:5555" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4 XL" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
