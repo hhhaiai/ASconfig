@@ -5,17 +5,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="VYE0222310002536" />
-          </Key>
-        </key>
-        <name value="HUAWEI ABR-AL60" />
-        <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="A032DAAEFE6B60" />
           </Key>
         </key>
@@ -33,6 +22,17 @@
         <name value="OnePlus ONEPLUS A6000" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="VYE0222310002536" />
+          </Key>
+        </key>
+        <name value="HUAWEI ABR-AL60" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -99,6 +99,28 @@
         <name value="Google Pixel 4 XL" />
         <target value="Android 11.0" />
         <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="573409d0" />
+          </Key>
+        </key>
+        <name value="smartisan OC105" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8GP4C18719005261" />
+          </Key>
+        </key>
+        <name value="HUAWEI ANE-AL00" />
+        <target value="Android 9.0" />
+        <api value="28" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
