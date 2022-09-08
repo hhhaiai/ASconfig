@@ -56,6 +56,17 @@
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ENU7N15A28005213" />
+          </Key>
+        </key>
+        <name value="Huawei Nexus 6P" />
+        <target value="Android 8.1" />
+        <api value="27" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
