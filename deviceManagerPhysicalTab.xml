@@ -5,12 +5,34 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="A032DAAEFE6B60" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4 XL" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="9cad75f5" />
           </Key>
         </key>
         <name value="OnePlus LE2110" />
         <target value="Android 11.0" />
         <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="573409d0" />
+          </Key>
+        </key>
+        <name value="smartisan OC105" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
       </PhysicalDevice>
     </physicalDevices>
   </component>

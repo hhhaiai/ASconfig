@@ -100,14 +100,10 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="javascript">
+      <debugger id="ObjectiveC">
         <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
+          <option name="VALUES_FILTER_ENABLED" value="false" />
+          <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
         </configuration>
       </debugger>
     </debuggers>
