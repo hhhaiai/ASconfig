@@ -5,10 +5,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="3554a665" />
+            <value value="A032DAAEFE6B60" />
           </Key>
         </key>
-        <name value="Xiaomi MI 9" />
+        <name value="Google Pixel 4 XL" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
@@ -16,10 +16,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="A032DAAEFE6B60" />
+            <value value="3554a665" />
           </Key>
         </key>
-        <name value="Google Pixel 4 XL" />
+        <name value="Xiaomi MI 9" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
