@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="1121e309" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI NOTE LTE" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="A032DAAEFE6B60" />
           </Key>
         </key>
