@@ -89,6 +89,17 @@
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="YDIZCINF99999999" />
+          </Key>
+        </key>
+        <name value="OPPO OPPO R9tm" />
+        <target value="Android 5.1" />
+        <api value="22" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
