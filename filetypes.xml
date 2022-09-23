@@ -1,17 +1,16 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="Tt" type="AUTO_DETECTED" />
-      <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping pattern="lock" type="AUTO_DETECTED" />
-      <mapping pattern="xposed_init" type="AUTO_DETECTED" />
-      <mapping pattern="需要操作.txt" type="AUTO_DETECTED" />
       <mapping pattern="ROM_USED_INFO00" type="AUTO_DETECTED" />
-      <mapping ext="mac" type="Assembly file" />
+      <mapping pattern="Tt" type="AUTO_DETECTED" />
+      <mapping pattern="xposed_init" type="AUTO_DETECTED" />
+      <mapping pattern="README" type="AUTO_DETECTED" />
+      <mapping pattern="需要操作.txt" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="startup-sequence" type="PLAIN_TEXT" />
       <mapping pattern="FILE_ID.DIZ" type="PLAIN_TEXT" />
+      <mapping pattern="startup-sequence" type="PLAIN_TEXT" />
       <mapping ext="prof" type="PLAIN_TEXT" />
       <mapping ext="nfo" type="PLAIN_TEXT" />
       <mapping ext="xcf" type="PLAIN_TEXT" />
@@ -25,6 +24,7 @@
       <removed_mapping ext="rs" approved="true" type="Rust" />
       <removed_mapping ext="s" approved="true" type="Assembly file" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <mapping ext="mac" type="Assembly file" />
     </extensionMap>
   </component>
 </application>
