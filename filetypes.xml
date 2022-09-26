@@ -17,6 +17,7 @@
       <mapping ext="nfo" type="PLAIN_TEXT" />
       <mapping ext="xcf" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="asm" approved="true" type="Assembly file" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
@@ -26,7 +27,6 @@
       <removed_mapping ext="rs" approved="true" type="Rust" />
       <removed_mapping ext="s" approved="true" type="Assembly file" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
-      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
