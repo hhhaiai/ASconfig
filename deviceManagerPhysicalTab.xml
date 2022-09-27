@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="9cad75f5" />
+          </Key>
+        </key>
+        <name value="OnePlus LE2110" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="1121e309" />
           </Key>
         </key>
@@ -31,17 +42,6 @@
           </Key>
         </key>
         <name value="Xiaomi MI 9" />
-        <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="9cad75f5" />
-          </Key>
-        </key>
-        <name value="OnePlus LE2110" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
