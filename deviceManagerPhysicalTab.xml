@@ -100,6 +100,61 @@
         <target value="Android 5.1" />
         <api value="22" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="106.38.42.22:15043" />
+          </Key>
+        </key>
+        <name value="samsung SM-N9860" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="106.38.42.22:15257" />
+          </Key>
+        </key>
+        <name value="samsung SM-A5260" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="106.38.42.22:15029" />
+          </Key>
+        </key>
+        <name value="samsung SM-G9960" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="106.38.42.22:15298" />
+          </Key>
+        </key>
+        <name value="samsung SM-E5260" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="106.38.42.22:15049" />
+          </Key>
+        </key>
+        <name value="samsung SM-A3058" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
