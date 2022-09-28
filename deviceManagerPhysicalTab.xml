@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="4211fe05" />
+          </Key>
+        </key>
+        <name value="vivo V1838A" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="9cad75f5" />
           </Key>
         </key>
@@ -77,17 +88,6 @@
         <name value="Huawei Nexus 6P" />
         <target value="Android 8.1" />
         <api value="27" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="4211fe05" />
-          </Key>
-        </key>
-        <name value="vivo V1838A" />
-        <target value="Android 10.0" />
-        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
