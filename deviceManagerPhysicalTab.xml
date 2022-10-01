@@ -1,0 +1,160 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="4211fe05" />
+          </Key>
+        </key>
+        <name value="vivo V1838A" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="9cad75f5" />
+          </Key>
+        </key>
+        <name value="OnePlus LE2110" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="1121e309" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI NOTE LTE" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="A032DAAEFE6B60" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4 XL" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="3554a665" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 9" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="573409d0" />
+          </Key>
+        </key>
+        <name value="smartisan OC105" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8GP4C18719005261" />
+          </Key>
+        </key>
+        <name value="HUAWEI ANE-AL00" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ENU7N15A28005213" />
+          </Key>
+        </key>
+        <name value="Huawei Nexus 6P" />
+        <target value="Android 8.1" />
+        <api value="27" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="YDIZCINF99999999" />
+          </Key>
+        </key>
+        <name value="OPPO OPPO R9tm" />
+        <target value="Android 5.1" />
+        <api value="22" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="106.38.42.22:15043" />
+          </Key>
+        </key>
+        <name value="samsung SM-N9860" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="106.38.42.22:15257" />
+          </Key>
+        </key>
+        <name value="samsung SM-A5260" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="106.38.42.22:15029" />
+          </Key>
+        </key>
+        <name value="samsung SM-G9960" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="106.38.42.22:15298" />
+          </Key>
+        </key>
+        <name value="samsung SM-E5260" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="106.38.42.22:15049" />
+          </Key>
+        </key>
+        <name value="samsung SM-A3058" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>

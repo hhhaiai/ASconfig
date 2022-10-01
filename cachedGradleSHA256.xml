@@ -1,0 +1,9 @@
+<application>
+  <component name="PersistentGradleDistributionSHA256">
+    <option name="myStoredChecksums">
+      <map>
+        <entry key="https://services.gradle.org/distributions/gradle-7.4.2-bin.zip" value="29e49b10984e585d8118b7d0bc452f944e386458df27371b49b4ac1dec4b7fda" />
+      </map>
+    </option>
+  </component>
+</application>

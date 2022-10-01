@@ -1,0 +1,6 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="D:/tools/nodejs/node.exe" />
+    <local-interpreter path="/opt/homebrew/bin/node" excluded="true" />
+  </component>
+</application>

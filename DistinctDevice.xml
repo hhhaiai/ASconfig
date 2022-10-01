@@ -1,0 +1,12 @@
+<application>
+  <component name="DistinctDevice">
+    <option name="androidVersion" value="10" />
+    <option name="deviceForm" value="PHYSICAL" />
+    <option name="deviceType" value="PHONE" />
+    <option name="emui" value="" />
+    <option name="model" value="oxf-an00" />
+    <option name="phoneName" value="荣耀v30" />
+    <option name="xres" value="1080" />
+    <option name="yres" value="2400" />
+  </component>
+</application>
