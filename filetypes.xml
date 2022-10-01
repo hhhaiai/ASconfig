@@ -18,11 +18,14 @@
       <mapping ext="xcf" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="asm" approved="true" type="Assembly file" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="i" approved="true" type="ObjectiveC" />
       <removed_mapping ext="inc" approved="true" type="Assembly file" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Rust" />
       <removed_mapping ext="s" approved="true" type="Assembly file" />
