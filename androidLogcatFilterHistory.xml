@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="HookBridge" />
         <option value="sanbo" />
       </list>
     </option>
