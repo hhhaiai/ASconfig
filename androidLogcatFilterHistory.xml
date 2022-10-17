@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="sanbo" />
     <option name="nonFavorites">
       <list>
+        <option value="sanbo" />
         <option value="package:mine" />
         <option value="HookBridge" />
-        <option value="sanbo" />
       </list>
     </option>
   </component>
