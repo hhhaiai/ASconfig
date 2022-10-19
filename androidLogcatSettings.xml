@@ -1,0 +1,5 @@
+<application>
+  <component name="AndroidLogcatSettings">
+    <option name="bufferSize" value="4194304" />
+  </component>
+</application>
