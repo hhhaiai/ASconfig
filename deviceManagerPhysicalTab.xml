@@ -53,8 +53,8 @@
           </Key>
         </key>
         <name value="Google Pixel 4 XL" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
