@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="A032DAAEFE6B60" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4 XL" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="9cad75f5" />
           </Key>
         </key>
@@ -44,17 +55,6 @@
         <name value="Xiaomi MI NOTE LTE" />
         <target value="Android 4.4" />
         <api value="androidversion:19:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="A032DAAEFE6B60" />
-          </Key>
-        </key>
-        <name value="Google Pixel 4 XL" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
