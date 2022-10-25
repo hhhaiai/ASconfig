@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="BEnvironment" />
     <option name="nonFavorites">
       <list>
+        <option value="BEnvironment" />
         <option value="sanbo" />
         <option value="package:mine" />
         <option value="HookBridge" />
