@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BEnvironment" />
+    <option name="mostRecentlyUsed" value="ProviderCall" />
     <option name="nonFavorites">
       <list>
+        <option value="ProviderCall" />
         <option value="BEnvironment" />
         <option value="sanbo" />
         <option value="package:mine" />

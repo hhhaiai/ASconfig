@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="4211fe05" />
+          </Key>
+        </key>
+        <name value="vivo V1838A" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="A032DAAEFE6B60" />
           </Key>
         </key>
@@ -38,17 +49,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="4211fe05" />
-          </Key>
-        </key>
-        <name value="vivo V1838A" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="1121e309" />
           </Key>
         </key>
@@ -65,7 +65,7 @@
         </key>
         <name value="smartisan OC105" />
         <target value="Android 7.1.1" />
-        <api value="25" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
