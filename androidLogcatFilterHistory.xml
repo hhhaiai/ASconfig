@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getService" />
     <option name="nonFavorites">
       <list>
-        <option value="getService" />
+        <option value="package:mine" />
         <option value="ProviderCall" />
+        <option value="getService" />
         <option value="BEnvironment" />
         <option value="sanbo" />
-        <option value="package:mine" />
         <option value="HookBridge" />
       </list>
     </option>
