@@ -5,6 +5,28 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="4211fe05" />
+          </Key>
+        </key>
+        <name value="vivo V1838A" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="A032DAAEFE6B60" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4 XL" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="9cad75f5" />
           </Key>
         </key>
@@ -27,34 +49,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="4211fe05" />
-          </Key>
-        </key>
-        <name value="vivo V1838A" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="1121e309" />
           </Key>
         </key>
         <name value="Xiaomi MI NOTE LTE" />
         <target value="Android 4.4" />
         <api value="androidversion:19:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="A032DAAEFE6B60" />
-          </Key>
-        </key>
-        <name value="Google Pixel 4 XL" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
