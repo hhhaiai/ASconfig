@@ -3,8 +3,9 @@
     <option name="addedPositive">
       <list>
         <option value="14:52:30.974 12778-12778 ViewRootIm...nActivity] me.sanbo.pathpp                      D  processMotionEvent MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=725.6719, y[0]=1739.725, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=674766655, downTime=674766655, deviceId=2, source=0x1002, displayId=0 }" />
-        <option value="analysys" />
         <option value="15:54:10.582 19050-19050 ViewRootImp...inActivity] jianqiang.com.hook3                  D  dispatchPointerEvent handled=true, event=MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=437.40497, y[0]=1829.7625, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=1974513, downTime=1974513, deviceId=2, source=0x1002, displayId=0 }" />
+        <option value="analysys" />
+        <option value="                                                                                           OpenGL ES Shader Compiler Version: EV031.32.02.07" />
       </list>
     </option>
   </component>
