@@ -14,6 +14,7 @@
       <mapping pattern="startup-sequence" type="PLAIN_TEXT" />
       <mapping ext="java  " type="PLAIN_TEXT" />
       <mapping ext="prof" type="PLAIN_TEXT" />
+      <mapping ext="bp" type="PLAIN_TEXT" />
       <mapping ext="nfo" type="PLAIN_TEXT" />
       <mapping ext="xcf" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
