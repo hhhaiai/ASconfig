@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Tt" type="AUTO_DETECTED" />
+      <mapping pattern="tags" type="AUTO_DETECTED" />
       <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping pattern="x" type="AUTO_DETECTED" />
       <mapping pattern="lock" type="AUTO_DETECTED" />
