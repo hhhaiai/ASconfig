@@ -9,8 +9,8 @@
           </Key>
         </key>
         <name value="Google AOSP on coral" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -152,6 +152,61 @@
           </Key>
         </key>
         <name value="samsung SM-A3058" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.8.120:58246" />
+          </Key>
+        </key>
+        <name value="HMD Global TA-1041" />
+        <target value="Android 8.1" />
+        <api value="androidversion:27:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.8.120:58625" />
+          </Key>
+        </key>
+        <name value="Xiaomi MIX 2" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.8.120:50508" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 9" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.8.120:50935" />
+          </Key>
+        </key>
+        <name value="Xiaomi MIX 2" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.8.120:51440" />
+          </Key>
+        </key>
+        <name value="HUAWEI ANE-AL00" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
