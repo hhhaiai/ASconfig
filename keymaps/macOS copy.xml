@@ -1,7 +1,22 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ChooseRunConfiguration" />
+  <action id="Console.TableResult.NavigateForeignAction">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="GotoSymbol" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
+  <action id="Run" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
@@ -9,4 +24,5 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
