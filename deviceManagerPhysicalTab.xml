@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="A032DAAEFE6B60" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4 XL" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="71833e14" />
           </Key>
         </key>
@@ -33,17 +44,6 @@
         <name value="HUAWEI ABR-AL60" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="A032DAAEFE6B60" />
-          </Key>
-        </key>
-        <name value="Google AOSP on coral" />
-        <target value="Android API 34" />
-        <api value="androidversion:33:UpsideDownCake:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
