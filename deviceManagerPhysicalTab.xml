@@ -5,6 +5,28 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="A032DAAEFE6B60" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4 XL" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="71833e14" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A6000" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="298d1844" />
           </Key>
         </key>
@@ -22,17 +44,6 @@
         <name value="HUAWEI ABR-AL60" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="A032DAAEFE6B60" />
-          </Key>
-        </key>
-        <name value="Google AOSP on coral" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -231,6 +242,61 @@
         <name value="HUAWEI ANE-AL00" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:5555" />
+          </Key>
+        </key>
+        <name value="Genymobile Galaxy S4" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="aca76a37" />
+          </Key>
+        </key>
+        <name value="Xiaomi Mi Note 3" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:5562" />
+          </Key>
+        </key>
+        <name value="Genymobile Galaxy S4" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:5569" />
+          </Key>
+        </key>
+        <name value="Genymobile Galaxy S4" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:5576" />
+          </Key>
+        </key>
+        <name value="Genymobile Galaxy S4" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
