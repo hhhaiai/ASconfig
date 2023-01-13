@@ -2,6 +2,7 @@
   <component name="AcceptedLanguageLevels">
     <explicitly-accepted>
       <name>JDK_X</name>
+      <name>JDK_19_PREVIEW</name>
     </explicitly-accepted>
   </component>
 </application>
