@@ -1,5 +1,6 @@
 <application>
   <component name="LogcatExperimentalSettings">
     <option name="bannerDismissed" value="true" />
+    <option name="logcatV2Enabled" value="false" />
   </component>
 </application>

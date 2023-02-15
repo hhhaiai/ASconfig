@@ -9,7 +9,7 @@
           </Key>
         </key>
         <name value="Google AOSP on coral" />
-        <target value="Android Tiramisu" />
+        <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>

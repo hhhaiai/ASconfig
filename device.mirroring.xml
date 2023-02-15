@@ -1,0 +1,5 @@
+<application>
+  <component name="DeviceMirroringSettings">
+    <option name="deviceMirroringEnabled" value="true" />
+  </component>
+</application>
